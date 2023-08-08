@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[click org button]]>
+    </line>
+    <line>
+      <![CDATA[click on org image]]>
+    </line>
+    <line>
+      <![CDATA[creating new organization]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-02T22:30:23 IST" name="Suite" finished-at="2023-08-02T22:31:18 IST" duration-ms="54532">
+    <groups>
+      <group name="smoke">
+        <method signature="CreateContactWithOrganizationTest.CreateContactWithOrgTest()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" name="CreateContactWithOrgTest" class="vtiger.Practice.CreateContactWithOrganizationTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-08-02T22:30:23 IST" name="Test" finished-at="2023-08-02T22:31:18 IST" duration-ms="54532">
+      <class name="vtiger.Practice.CreateContactWithOrganizationTest">
+        <test-method is-config="true" signature="BeforeSuiteConfiguration()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:30:23 IST" name="BeforeSuiteConfiguration" finished-at="2023-08-02T22:30:23 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuiteConfiguration -->
+        <test-method is-config="true" signature="BeforeClassConfig()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:30:24 IST" name="BeforeClassConfig" finished-at="2023-08-02T22:30:34 IST" duration-ms="9842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClassConfig -->
+        <test-method is-config="true" signature="BeforeMethodConfiguration()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:30:34 IST" name="BeforeMethodConfiguration" finished-at="2023-08-02T22:30:41 IST" duration-ms="7589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethodConfiguration -->
+        <test-method signature="CreateContactWithOrgTest()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:30:41 IST" name="CreateContactWithOrgTest" finished-at="2023-08-02T22:31:15 IST" duration-ms="33751" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[click org button]]>
+            </line>
+            <line>
+              <![CDATA[click on org image]]>
+            </line>
+            <line>
+              <![CDATA[creating new organization]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateContactWithOrgTest -->
+        <test-method is-config="true" signature="AfterMethodCongiguration()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:31:15 IST" name="AfterMethodCongiguration" finished-at="2023-08-02T22:31:18 IST" duration-ms="2709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodCongiguration -->
+        <test-method is-config="true" signature="AfterClassConfiguration()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:31:18 IST" name="AfterClassConfiguration" finished-at="2023-08-02T22:31:18 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClassConfiguration -->
+        <test-method is-config="true" signature="AfterSuiteConfiguration()[pri:0, instance:vtiger.Practice.CreateContactWithOrganizationTest@35cabb2a]" started-at="2023-08-02T22:31:18 IST" name="AfterSuiteConfiguration" finished-at="2023-08-02T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuiteConfiguration -->
+      </class> <!-- vtiger.Practice.CreateContactWithOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
