@@ -9,6 +9,7 @@ public class demo2 {
 		System.out.println("this is second commit");
 		System.out.println("hi this is commit from at");
 		int b= 20;
+		System.out.println();
 	}
 
 }
